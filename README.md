@@ -2,11 +2,11 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](http://www.linkedin.com/in/mengchenwang)
 
-I am an analytical and creative Junior Developer. I am looking for a role where I can extend my programming knowledge and experience.
+I am a Junior Developer with design expertise and 3 years' experience in a technical role. I am looking for a role where I can extend my programming knowledge and experience.
 
-After graduating from Imperial College, I spent 7 years working in the localisation industry, first at a localisation agency and later at Canon Europe. I have worked in translation, project management, localisation engineering and graphic design. As my role and my interest becomes more and more technical, I have decided to become a full-time developer.
+After graduating from Imperial College, I spent 7 years working in the localisation industry, first at a localisation agency and later at Canon Europe. My previous roles involve design and localisation engineering for firmware, software, web and apps. As my role and my interest becomes more and more technical, I have decided to become a full-time developer.
 
-I have completed a course at Makers Academy, a 16 week software development bootcamp, and I am looking forward to develop my skills further.
+I have completed a course at Makers Academy, a software development bootcamp, and I am looking forward to develop my skills further.
 
 ## Projects
 
@@ -17,7 +17,7 @@ For a complete list, see my [GitHub](https://github.com/mengchenwang?tab=reposit
 
 #### Programming
 
-I have been developing applications using Ruby and Javascript since July 2017. Since I joined Makers Academy, I have started working with Rails. I have built projects using Ruby, Javascript, Rails, HTML, CSS and Unity.
+I have been developing applications using Ruby and Javascript since July 2017. Since I joined Makers Academy, I have started working with Rails. I have built projects using Ruby, Javascript, Java, Rails, HTML, CSS and Unity.
 
 I have developed my applications following Test Driven Development process, Object-oriented Design principles, XP values and Agile methodology.
 
@@ -25,7 +25,7 @@ I have developed my applications following Test Driven Development process, Obje
 
 * Starting out as a translator in 2010, I developed my technical skills and became a Localisation Engineer at Canon in 2014
 * Further developed my technical skills to work in firmware, software and websites localiastion at Canon
-* Self-taught graphic design and used my skills professionally at Canon - my design work has been used in Canon websites, E-commerance sites, apps and internal & external communication across EMEA.
+* Self-taught graphic and digital design and used my skills professionally at Canon - my design work has been used in Canon websites, E-commerance sites, apps and internal & external communication across EMEA.
 
 #### Initiative
 
