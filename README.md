@@ -2,11 +2,15 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](http://www.linkedin.com/in/mengchenwang)
 
-I am a Junior Developer with design expertise and 3 years' experience in a technical role. I am looking for a role where I can extend my programming knowledge and experience.
+I am a Junior Developer with design expertise and 3 years' experience in a technical role.
 
 After graduating from Imperial College, I spent 7 years working in the localisation industry, first at a localisation agency and later at Canon Europe. My previous roles involve design and localisation engineering for firmware, software, web and apps. As my role and my interest becomes more and more technical, I have decided to become a full-time developer.
 
-I have completed a course at Makers Academy, a software development bootcamp, and I am looking forward to develop my skills further.
+I have completed a course at Makers Academy, an intensive software development bootcamp. My experience at Makers Academy has engrained in me the importance of best coding practices, such as Agile, OOD and TDD. I am looking for a Junior Developer role where I can follow those practices in a supportive environment.
+
+Tech Skills : Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL, MongoDB
+
+
 
 ## Projects
 
@@ -40,10 +44,10 @@ I have developed my applications following Test Driven Development process, Obje
 
 A highly intensive development course, focusing on :
 
-* Open source development
 * Object Oriented Programming (OOP)
 * Agile Methodologies / XP Values
 * Test Driven Development (TDD)
+* Open source development
 * Ruby: Rails 5, Sinatra
 * JavaScript: jQuery
 * Testing: RSpec, Jasmine
