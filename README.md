@@ -8,7 +8,9 @@ After graduating from Imperial College, I spent 7 years working in the localisat
 
 I have completed a course at Makers Academy, an intensive software development bootcamp. My experience at Makers Academy has engrained in me the importance of best coding practices, such as Agile, OOD and TDD. I am looking for a Junior Developer role where I can follow those practices in a supportive environment.
 
-Tech Skills : Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL, MongoDB
+I am currently learning Java and taking AWS Certified Solutions Architect courses.   
+
+Tech Skills : Ruby, Rails, Sinatra, Node.js, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL
 
 
 
