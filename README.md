@@ -2,28 +2,36 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](http://www.linkedin.com/in/mengchenwang)
 
-I am a Junior Developer with design expertise and 3 years' experience in a technical role.
+I am a Junior Developer with design expertise and over 3 years' experience in a technical role.
 
-After graduating from Imperial College, I spent 7 years working in the localisation industry, first at a localisation agency and later at Canon Europe. My previous roles involve design and localisation engineering for firmware, software, web and apps. As my role and my interest becomes more and more technical, I have decided to become a full-time developer.
+After graduating from Imperial College, I spent 7 years working in the localisation industry. My last job was Localisation Engineer at Canon Europe. My previous roles involve design and engineering for firmware, software, web and apps. As my role and my interest becomes more and more technical, I have decided to become a full-time developer.
 
 I have completed a course at Makers Academy, an intensive software development bootcamp. My experience at Makers Academy has engrained in me the importance of best coding practices, such as Agile, OOD and TDD. I am looking for a Junior Developer role where I can follow those practices in a supportive environment.
 
-I am currently learning Java and taking AWS Certified Solutions Architect courses.   
+I am currently learning React Native, Node.js and taking AWS Certified Solutions Architect courses.
 
-Tech Skills : Ruby, Rails, Sinatra, Node.js, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL
+I am also writing a blog on [learning React Native from scratch](https://medium.com/@mengchenwang/learning-react-native-from-scratch-4d9873eb9fac).
+
+Tech Skills : JavaScript, Node.js, React Native, jQuery, HTML, CSS, PostgreSQL, Ruby, Rails
 
 
 
 ## Projects
 
-For a complete list, see my [GitHub](https://github.com/mengchenwang?tab=repositories).
+Project | Description | When | Technologies 
+------- | ----------- | ---- | ------------ 
+[Contact List](https://github.com/mengchenwang/React_native_Fullstack) | Full-stack contact list app | January 2018 | React Native, Node.js Express, Firebase Firestore
+[PresentAR - mobile](https://github.com/mengchenwang/presentAR-client) | Augmented reality presentation app for mobile | November 2017 | Unity, Vuforia, C#
+[PresentAR - Website](https://github.com/mengchenwang/presentAR) |3D model hosting website for use with PresentAR mobile App| November 2017 | Ruby-on-Rails, RSPec, PostgreSQL
+[Bank - Ruby](https://github.com/mengchenwang/bank_ruby) | A tech test style simulation of simple bank functions | December 2017 | Ruby
+
 
 
 ## Skills
 
 #### Programming
 
-I have been developing applications using Ruby and Javascript since July 2017. Since I joined Makers Academy, I have started working with Rails. I have built projects using Ruby, Javascript, Java, Rails, HTML, CSS and Unity.
+I have been developing applications using Ruby and Javascript since July 2017. Since I joined Makers Academy, I have started working with Rails. I have built projects using Ruby, Javascript, Node.js, React Native, Rails, HTML, CSS and Unity.
 
 I have developed my applications following Test Driven Development process, Object-oriented Design principles, XP values and Agile methodology.
 
@@ -31,7 +39,7 @@ I have developed my applications following Test Driven Development process, Obje
 
 * Starting out as a translator in 2010, I developed my technical skills and became a Localisation Engineer at Canon in 2014
 * Further developed my technical skills to work in firmware, software and websites localiastion at Canon
-* Self-taught graphic and digital design and used my skills professionally at Canon - my design work has been used in Canon websites, E-commerance sites, apps and internal & external communication across EMEA.
+* Self-taught graphic design and used my skills professionally at Canon - my design work has been used in Canon websites, E-commerance sites, apps and internal & external communication across EMEA.
 
 #### Initiative
 
@@ -84,7 +92,6 @@ A highly intensive development course, focusing on :
   * Setting up the company's first server-based translation and project management system
 
 ## Hobbies and Interests
-- **Chocolate Making** : Hand-made Japanese style nama chocolate
 - **Football** : Liverpool FC, tactics and Football Manager
 - **Photography** : People, Macro
-- **Translation** : Co-translater of [Taigong's Six Secret Teachings](https://books.google.co.uk/books?id=uLw2DwAAQBAJ&pg=PT11&lpg=PT11&dq=taigong%27s+six+secret+teachings+mengchen+wang&source=bl&ots=W1sMLoJ8BD&sig=d6LcvjOU9t55ANs3fGeMkkx6_F8&hl=en&sa=X&ved=0ahUKEwjk6oydlsXXAhVnJMAKHTPNDwkQ6AEIKDAA#v=onepage&q&f=false), pulished by Arcturus Publishing
+- **Translation** : Co-translater of [Taigong's Six Secret Teachings](https://books.google.co.uk/books?id=uLw2DwAAQBAJ&pg=PT11&lpg=PT11&dq=taigong%27s+six+secret+teachings+mengchen+wang&source=bl&ots=W1sMLoJ8BD&sig=d6LcvjOU9t55ANs3fGeMkkx6_F8&hl=en&sa=X&ved=0ahUKEwjk6oydlsXXAhVnJMAKHTPNDwkQ6AEIKDAA#v=onepage&q&f=false), a military strategy book from 11 century BC, pulished by Arcturus Publishing
